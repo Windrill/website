@@ -13,8 +13,8 @@ This page describes how to author a reusable component that you can
 load and use as part of a pipeline.
 
 If you're new to
-pipelines, see the conceptual guides to [pipelines](/docs/components/pipelines/concepts/pipeline/)
-and [components](/docs/components/pipelines/concepts/component/).
+pipelines, see the conceptual guides to [pipelines](/docs/components/pipelines/overview/concepts/pipeline/)
+and [components](/docs/components/pipelines/overview/concepts/component/).
 
 This tutorial describes the manual way of writing a full component program (in any language) and a component definition for it.
 For quickly building component from a python function see [Build component from Python function](/docs/components/pipelines/sdk/lightweight-python-components/) and [Data Passing in Python components](https://github.com/kubeflow/pipelines/blob/master/samples/tutorials/Data%20passing%20in%20python%20components.ipynb).
